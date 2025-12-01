@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青を見る",
+  "base_artist": "culenasm",
+  "createdAt": "2025-12-01T12:02:33.885648Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青を見る",
+      "artist": "クレナズム",
+      "has_synced": false,
+      "path": "select/pl_01_青を見る_クレナズム.txt"
+    }
+  ]
+}
